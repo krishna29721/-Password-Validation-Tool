@@ -41,7 +41,7 @@ This project is a Python-based Password Validation Tool that checks whether a gi
 4. Run the file:
 
 ```bash
-python filename.py
+python project.py
 ```
 
 ---
